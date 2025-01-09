@@ -1,0 +1,10 @@
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\bin\Debug\Not_Hesaplama_Uygulamasi.exe.config
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\bin\Debug\Not_Hesaplama_Uygulamasi.exe
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\bin\Debug\Not_Hesaplama_Uygulamasi.pdb
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.Form1.resources
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.Properties.Resources.resources
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.exe
+C:\Users\ecem2\OneDrive\Masaüstü\C#\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.pdb
